@@ -7,8 +7,8 @@ These two maps are visualizing 2020 COVID-19 cases and case rates across U.S. co
 - Proportional symbols (total cases): `map2.html`
 
 ## Screenshots
-- `img/map1.png`
-- `img/map2.png`
+[Map1](img/map1.png)
+[Map2](img/map2.png)
 
 ## Primary Functions
 - Load GeoJSON and DBF in parallel using `fetch()` + `Promise.all()`.
